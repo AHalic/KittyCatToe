@@ -2,7 +2,9 @@
 
 A cat themed TicTacToe.
 
-![Game Preview](/public/demo.gif)
+<div style="display: flex; justify-content: center;">
+    <img alt="Demo gif" src="/public/demo.gif" width="70%" />
+</div>
 
 ## Tools
 
