@@ -1,6 +1,6 @@
 # Kitty Cat Toe
 
-A simple cat themed TicTacToe.
+A simple cat themed TicTacToe. Available at [kitty-cat-toe.vercel.app](https://kitty-cat-toe.vercel.app/).
 
 <p align="center">
     <img alt="Demo gif" src="/public/demo.gif" width="60%"/>
